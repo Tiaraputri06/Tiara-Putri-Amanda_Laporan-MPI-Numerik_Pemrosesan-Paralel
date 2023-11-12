@@ -6,3 +6,7 @@ Codingan 1
 Codingan 2
 ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-MPI-Numerik_Pemrosesan-Paralel/assets/150508674/55e5fcf4-6f6b-4fa3-beaf-4a038195a59a)
 ![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-MPI-Numerik_Pemrosesan-Paralel/assets/150508674/a6eb3224-7b9e-4072-9455-beb73ef1cd87)
+
+Output
+![image](https://github.com/Tiaraputri06/Tiara-Putri-Amanda_Laporan-MPI-Numerik_Pemrosesan-Paralel/assets/150508674/78a1dc2d-61ae-496a-aed3-115338284133)
+
